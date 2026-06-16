@@ -1,2 +1,0 @@
-# wysj
-homework
